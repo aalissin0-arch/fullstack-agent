@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fullstack Agent</string>
+    <string name="tagline_stack">Memory, voice, face, and optional hands — assembled in one place.</string>
+    <string name="nav_stage">Stage</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_wiring">Wiring</string>
+    <string name="nav_mechanic">Mechanic</string>
+    <string name="wizard_title">Setup Wizard</string>
+    <string name="action_hold_to_talk">Hold to talk</string>
+    <string name="action_listening">Listening…</string>
+    <string name="action_hands_free_on">Hands-free active</string>
+    <string name="action_run_wizard">Run Setup Wizard</string>
+    <string name="cd_hero_circuit">Living circuit board background illustration</string>
+    <string name="cd_toggle_theme">Toggle color theme</string>
+    <string name="cd_add_note">Add memory note</string>
+    <string name="cd_present_card">Add board card</string>
+</resources>
